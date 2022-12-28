@@ -1,0 +1,4 @@
+#ignore data
+datasets/NIPS-DEV/clean
+datasets/NIPS-DEV/di-2-fgsm
+datasets/NIPS-DEV/mdi-2-fgsm
