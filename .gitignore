@@ -2,3 +2,7 @@
 datasets/NIPS-DEV/clean
 datasets/NIPS-DEV/di-2-fgsm
 datasets/NIPS-DEV/mdi-2-fgsm
+
+datasets/original.zip
+datasets/m-di-2-fgsm.zip
+datasets/di-2-fgsm.zip
