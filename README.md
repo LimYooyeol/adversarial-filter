@@ -1,4 +1,4 @@
-# adversarial-attack-filter(작성 중)
+# adversarial-attack-filter
 초해상화 모델에 적대적 학습을 수행하여 AI 모델에 대한 적대적 공격을 상쇄하는 필터를 개발한 프로젝트입니다. 
 
 
