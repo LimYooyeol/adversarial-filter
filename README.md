@@ -10,7 +10,7 @@
 * [결과](#결과)
 * [개발환경](#개발환경)
 * [코드 및 사용법](#코드-및-)
-* [참고자료](#참고자료)
+* [관련연구](#)
 
 ## 프로젝트 설명
 <b>적대적 공격</b>이란, 의도적으로 이미지를 정교하게 조작하여 AI 분류 모델의 오동작을 유발하는 공격입니다. (ex)판다를 책상으로 분류) <br>
@@ -87,9 +87,10 @@ $$ L = \Sigma_{k=1}^{N}{MSE(C_K(HR), C_K(F(LR)))} $$
 ## 코드 및 사용법
 * train.ipynb: 학습 코드
 * test.ipynb : 검증 코드([결과](#결과))
-* model_implementation.py : 모델 실행
-* models 디렉토리 및 model_zoo/IMDN/IMDN_x2.pth : [IDMN](https://github.com/Zheng222/IMDN)
+* model_implementation.py : 모델 사용법
+* models, model_zoo/IMDN/IMDN_x2.pth : [IDMN](https://github.com/Zheng222/IMDN)
 
 model_zoo/ours/adv_ens_imdn_v1_best.pt 파일을 통해 사전학습된 모델을 사용할 수 있습니다. (model_implementation.py 참고)
 
+## 관련
  
